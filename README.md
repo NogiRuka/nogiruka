@@ -15,7 +15,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NogiRuka&layout=compact">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NogiRuka&layout=compact">
-    <img align="right" style="margin-top:20px;" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NogiRuka&layout=compact">
+    <img align="right" style="margin-top:20px;" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NogiRuka&layout=compact">
 </picture>
 
 - ### 🔨 Technology stack：
