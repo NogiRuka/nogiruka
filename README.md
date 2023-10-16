@@ -12,6 +12,12 @@
     <img align="right" style="margin-top:20px;" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=NogiRuka&theme=vue&show_icons=true&rank_icon=github">
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NogiRuka&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NogiRuka&layout=compact">
+    <img align="right" style="margin-top:20px;" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NogiRuka&layout=compact">
+</picture>
+
 - ### 🔨 Technology stack：
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-20BB87?style=flat-square&logo=vue.js&logoColor=white)
